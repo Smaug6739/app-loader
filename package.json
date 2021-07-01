@@ -1,0 +1,12 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass style:dist/style"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
